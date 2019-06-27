@@ -1,0 +1,2 @@
+# mySublimetext
+sublimetext dir save
